@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/appicon">
+        <file>resource/icon/qblock_icon.png</file>
+        <file>resource/icon/qblock_icon2.png</file>
+    </qresource>
+</RCC>
